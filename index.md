@@ -1,11 +1,20 @@
-Name: Ian Turner
+Ian Turner 
 
 Data Science Student  
 
 UNC Charlotte
 
-About me: I am a sophomore at UNC Charlotte majoring in Data Science. The class I am currently in for Data Science is Modeling and Society where we are learning how to make portfolios.
+---
 
-Welcome to my Data Science Studio portfolio.
+About me
 
-This website will document my learning and projects throughout the semester.
+I am a Sophomore at UNC Charlotte majoring in Data Science. I really enjoy watching and playing sports, lifting weights, and hanging out with my friends. My goals within Data Science are understanding more about Data Science as a whole and all my major classes I take and hopefully going into the sports analytics industry.
+
+---
+
+## Portfolio
+
+- [Blog](blog.md)
+
+- [Projects](projects.md)
+
