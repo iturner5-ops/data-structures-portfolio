@@ -6,4 +6,4 @@ This section documents my data science projects, research questions, and data st
 
 ## Project 1
 
-* [Charlotte Hornets Offseason Analysis](./Charlotte%20Hornets%20Offseason)
+
