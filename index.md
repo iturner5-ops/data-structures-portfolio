@@ -29,5 +29,5 @@ Phone: (980) 505-1892
 
 Github: <https://github.com/iturner5-ops>
 
-Resume: [📄 Download Ian Turner's Resume (PDF)](Ian_Turner_Resume.pdf)
+Resume: [📄 Download Ian Turner's Resume (PDF)](IanTurnerResume.pdf)
 
