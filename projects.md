@@ -7,3 +7,5 @@ This section documents my data science projects, research questions, and data st
 ## Project 1
 
 [Hornets Offseason](hornetsoffseason.md)
+
+[← Home](index.md)
