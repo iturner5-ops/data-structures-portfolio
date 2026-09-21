@@ -27,5 +27,5 @@ Email: <ianturner230@gmail.com>
 
 Phone: (980) 505-1892
 
-Github: https://github.com/iturner5-ops
+Github: <https://github.com/iturner5-ops>
 
