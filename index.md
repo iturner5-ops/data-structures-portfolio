@@ -21,7 +21,7 @@ My name is Ian Turner and I am a Sophomore at UNC Charlotte majoring in Data Sci
 
 Contact
 
-LinkedIN:  LinkedIN: <a href="https://www.linkedin.com/in/ian-turner-337b58406/" target="_blank">https://www.linkedin.com/in/ian-turner-337b58406/</a>
+LinkedIN: <a href="https://www.linkedin.com/in/ian-turner-337b58406/" target="_blank">https://www.linkedin.com/in/ian-turner-337b58406/</a>
 
 Email: <ianturner230@gmail.com>
 
