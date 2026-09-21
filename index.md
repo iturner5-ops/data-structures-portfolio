@@ -23,7 +23,7 @@ Contact
 
 LinkedIN:  LinkedIN: <a href="https://www.linkedin.com/in/ian-turner-337b58406/" target="_blank">https://www.linkedin.com/in/ian-turner-337b58406/</a>
 
-[Contact Me](mailto:ianturner230@gmail.com)
+Email: <ianturner230@gmail.com>
 
 Phone: (980) 505-1892
 
