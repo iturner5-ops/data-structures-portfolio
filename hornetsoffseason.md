@@ -12,6 +12,7 @@ The Charlotte Hornets had one of there best years this last season since 2015-20
 
 Data Description:
 
+Some Key Variables in this project include the 2026 Offseason roster changes which refers to the changes made to the Charlotte Hornets' roster during the 2026 NBA offseason, including players acquired, players traded or lost, and changes in the overall talent and depth of the team. I will be measuring this 
 
 
 
