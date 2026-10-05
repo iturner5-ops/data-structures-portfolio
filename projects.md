@@ -8,4 +8,9 @@ This section documents my data science projects, research questions, and data st
 
 [Hornets Offseason](hornetsoffseason.md)
 
+## Project 2
+
+[NFL QB STATS](NFLQBSTATS.md)
+
+
 [← Home](index.md)
